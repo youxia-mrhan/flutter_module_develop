@@ -128,6 +128,6 @@ class Counter extends ChangeNotifier {
 
 新建的**单一**Flutter项目，打包体积为 `17.4MB`，而案例中**包含五个**模块的Flutter项目，打包体积为 `17.9MB`，体积**还算合理**。
 
-<img src="img/20.gif" alt="20">
+<img src="img/20.png" alt="20">
 
-<img src="img/21.gif" alt="21">
+<img src="img/21.png" alt="21">
