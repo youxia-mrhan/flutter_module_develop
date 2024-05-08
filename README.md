@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="README_CN.md">中文文档</a>
+</p>
+
 # Preface
 
 Current case Flutter SDK version: **3.13.2**
@@ -5,7 +9,6 @@ Current case Flutter SDK version: **3.13.2**
 Currently Flutter is in one project, **creating different directories** for **module development**. When I was doing **Android native development**, I found that on the native side, **each module can be run independently* *Get up, the inspiration comes from this;
 
 
-git  
 
 # 1、Create root directory
 
