@@ -11,7 +11,7 @@ Currently Flutter is in one project, **creating different directories** for **mo
 
 Create a new empty folder, I named it `flutter_module_develop`;
 
-![01.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d2b5bfda939b42b5893f7557c80affb9~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=294&h=486&s=66793&e=png&b=cfc9c5)
+<img src="img/01.png" alt="01">
 
 
 # 2、Create module
