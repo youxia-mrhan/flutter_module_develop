@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "app launch",
+            "cwd": "app",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+        },
+        {
+            "name": "app attach",
+            "cwd": "app",
+            "request": "attach",
+            "type": "dart",
+            "program": "lib/main.dart",
+        }
+    ]
+}
